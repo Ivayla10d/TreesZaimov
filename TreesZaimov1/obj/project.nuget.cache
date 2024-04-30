@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQgVKWfawgoN0bDP36n6qsQ1ubCC05s/5e0z7MdkaKZ62GrifD637BbxlGKdjWbZKHv3G5xBa/EJiYUvf27ILw==",
+  "success": true,
+  "projectFilePath": "C:\\Ivayla11d\\TreesZaimov1\\TreesZaimov1\\TreesZaimov1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STUDENTS-1212-3\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\STUDENTS-1212-3\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
